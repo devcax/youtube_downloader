@@ -1,0 +1,12 @@
+pytibe
+datetime
+delcam
+tensorflow
+pytorch_api
+requests
+pu_plot
+regex
+pandas
+numPy
+matplotlib
+ngrok
