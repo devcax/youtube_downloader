@@ -10,3 +10,6 @@ pandas
 numPy
 matplotlib
 ngrok
+ffmpeg
+ffplay
+ffprobe
